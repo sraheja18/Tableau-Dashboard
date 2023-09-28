@@ -20,3 +20,6 @@ Sales director wants to know the performance of the company in various Indian st
   
 - Q5. Net Profit & Profit Margin by Market
 
+### Here's the final dashboard
+![Screenshot](tableau_dashboard.png)
+
